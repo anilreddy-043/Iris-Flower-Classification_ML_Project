@@ -1,0 +1,15 @@
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+jupyter
+notebook
+
+
+Iris Flower Classification/
+│
+├── Iris Flower Classification.ipynb
+├── Iris.csv
+├── README.md
+└── requirements.txt
